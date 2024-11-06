@@ -6,20 +6,15 @@ This is a flow control system for Unity, designed to simplify and manage the flo
 ## 目錄
 ## Table of Contents
 
-- [特性](#特性)
-- [Features](#features)
+- [特性](#特性)|[Features](#features)
 
-- [使用方法](#使用方法)
-- [Usage](#usage)
+- [使用方法](#使用方法)|[Usage](#usage)
 
-- [文件結構](#文件結構)
-- [File Structure](#file-structure)
+- [文件結構](#文件結構)|[File Structure](#file-structure)
 
-- [貢獻](#貢獻)
-- [Contributing](#contributing)
+- [貢獻](#貢獻)|[Contributing](#contributing)
 
-- [許可證](#許可證)
-- [License](#license)
+- [許可證](#許可證)|[License](#license)
 
 ## 特性
 ## Features
