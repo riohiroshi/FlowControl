@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1251850593316452131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71537744cf6b9d146b76aad9dcfa161d, type: 3}
+  m_Name: Delay_2s
+  m_EditorClassIdentifier: 
+  _delayDuration: 2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a0a0c3f83ad46468a7057bcf85ae7e, type: 3}
+  m_Name: FlowNodeCollectionSO_Delays
+  m_EditorClassIdentifier: 
+  _indexToDelete: -1
+  _nodeList:
+  - {fileID: -1251850593316452131}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7440506733727667558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2bf32cbd5b38c5489ccd250ed58aad3, type: 3}
+  m_Name: Debug_Warning_Start
+  m_EditorClassIdentifier: 
+  _textToLog: Start
+  _logType: 1
+--- !u!114 &-6224899030991364634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2bf32cbd5b38c5489ccd250ed58aad3, type: 3}
+  m_Name: Debug_Error_Finish
+  m_EditorClassIdentifier: 
+  _textToLog: Finish
+  _logType: 2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9316969c88f9b39468d77034f543b6d0, type: 3}
+  m_Name: FlowNodeCollectionSO_DebugLogs
+  m_EditorClassIdentifier: 
+  _indexToDelete: -1
+  _nodeList:
+  - {fileID: 5263514649198465727}
+  - {fileID: -7440506733727667558}
+  - {fileID: -6224899030991364634}
+--- !u!114 &5263514649198465727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2bf32cbd5b38c5489ccd250ed58aad3, type: 3}
+  m_Name: Debug_Log_Hellow World
+  m_EditorClassIdentifier: 
+  _textToLog: Hellow World
+  _logType: 0

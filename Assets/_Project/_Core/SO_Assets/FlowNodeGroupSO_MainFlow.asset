@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b8888f028847984eb350283530e90bb, type: 3}
+  m_Name: FlowNodeGroupSO_MainFlow
+  m_EditorClassIdentifier: 
+  _nodeList:
+  - {fileID: 5263514649198465727, guid: a4ecf73e489c611489f6405e612c295a, type: 2}
+  - {fileID: -7440506733727667558, guid: a4ecf73e489c611489f6405e612c295a, type: 2}
+  - {fileID: -1251850593316452131, guid: df9f4a52aba82404ca611ec98e8ef836, type: 2}
+  - {fileID: -6224899030991364634, guid: a4ecf73e489c611489f6405e612c295a, type: 2}
